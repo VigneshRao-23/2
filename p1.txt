@@ -1,4 +1,7 @@
 first line is added
+<<<<<<< HEAD
 second line is added
 merging is over
 third line is added
+=======
+>>>>>>> parent of 7ad061e (second line is added and going to start merging)
